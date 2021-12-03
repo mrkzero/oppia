@@ -181,7 +181,7 @@ hdfs==2.6.0
     # via apache-beam
 html5lib==1.1
     # via -r requirements.in
-httplib2==0.9.2
+httplib2==0.19.0
     # via
     #   apache-beam
     #   google-api-python-client
