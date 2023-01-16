@@ -49,7 +49,7 @@ fasteners==0.16
     # via google-apitools
 firebase-admin==5.0.1
     # via -r requirements.in
-future==0.18.2
+future==0.18.3
     # via
     #   -r requirements.in
     #   apache-beam
