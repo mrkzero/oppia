@@ -239,7 +239,7 @@ proto-plus==1.18.1
     #   google-cloud-recommendations-ai
     #   google-cloud-tasks
     #   google-cloud-translate
-protobuf==3.13.0
+protobuf==3.18.3
     # via
     #   apache-beam
     #   google-api-core
@@ -367,3 +367,4 @@ zipp==3.4.1
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
