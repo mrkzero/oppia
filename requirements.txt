@@ -224,7 +224,7 @@ packaging==20.4
     #   google-cloud-tasks
     #   google-cloud-translate
     #   pytest
-pillow==8.3.2
+pillow==10.0.1
     # via -r requirements.in
 pluggy==0.13.1
     # via pytest
