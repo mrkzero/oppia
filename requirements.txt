@@ -24,7 +24,7 @@ cachetools==3.1.1
     # via
     #   apache-beam
     #   google-auth
-certifi==2021.5.30
+certifi==2023.7.22
     # via
     #   -r requirements.in
     #   elasticsearch
@@ -49,7 +49,7 @@ fasteners==0.16
     # via google-apitools
 firebase-admin==5.0.1
     # via -r requirements.in
-future==0.18.2
+future==0.18.3
     # via
     #   -r requirements.in
     #   apache-beam
@@ -168,7 +168,7 @@ grpcio-gcp==0.2.2
     # via
     #   apache-beam
     #   google-api-core
-grpcio==1.32.0
+grpcio==1.53.2
     # via
     #   apache-beam
     #   google-api-core
@@ -181,7 +181,7 @@ hdfs==2.6.0
     # via apache-beam
 html5lib==1.1
     # via -r requirements.in
-httplib2==0.9.2
+httplib2==0.19.0
     # via
     #   apache-beam
     #   google-api-python-client
@@ -203,7 +203,7 @@ msgpack==1.0.2
     # via cachecontrol
 mutagen==1.45.1
     # via -r requirements.in
-numpy==1.20.2
+numpy==1.22.2
     # via
     #   apache-beam
     #   pyarrow
@@ -224,7 +224,7 @@ packaging==20.4
     #   google-cloud-tasks
     #   google-cloud-translate
     #   pytest
-pillow==8.3.2
+pillow==10.0.1
     # via -r requirements.in
 pluggy==0.13.1
     # via pytest
@@ -239,7 +239,7 @@ proto-plus==1.18.1
     #   google-cloud-recommendations-ai
     #   google-cloud-tasks
     #   google-cloud-translate
-protobuf==3.13.0
+protobuf==3.18.3
     # via
     #   apache-beam
     #   google-api-core
@@ -294,7 +294,7 @@ requests-mock==1.9.3
     # via -r requirements.in
 requests-toolbelt==0.9.1
     # via -r requirements.in
-requests==2.26.0
+requests==2.31.0
     # via
     #   -r requirements.in
     #   apache-beam
@@ -348,7 +348,7 @@ typing-extensions==3.10.0.2
     #   importlib-metadata
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.6
+urllib3==1.26.17
     # via
     #   -r requirements.in
     #   elasticsearch
