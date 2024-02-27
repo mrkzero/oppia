@@ -213,7 +213,7 @@ oauth2client==3.0.0
     #   google-apitools
     #   googledatastore
     #   proto-google-cloud-datastore-v1
-orjson==3.6.3
+orjson==3.9.15
     # via apache-beam
 packaging==20.4
     # via
@@ -367,3 +367,4 @@ zipp==3.4.1
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
