@@ -189,7 +189,7 @@ httplib2==0.9.2
     #   google-auth-httplib2
     #   googledatastore
     #   oauth2client
-idna==2.10
+idna==3.7
     # via requests
 importlib-metadata==3.10.1
     # via
