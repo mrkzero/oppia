@@ -267,7 +267,7 @@ pylatexenc==2.10
     # via -r requirements.in
 pymemcache==3.4.1
     # via google-cloud-ndb
-pymongo==3.11.3
+pymongo==4.6.3
     # via apache-beam
 pyparsing==2.4.7
     # via
