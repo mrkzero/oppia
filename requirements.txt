@@ -168,14 +168,14 @@ grpcio-gcp==0.2.2
     # via
     #   apache-beam
     #   google-api-core
-grpcio==1.32.0
+grpcio==1.58.3
     # via
     #   apache-beam
     #   google-api-core
     #   googleapis-common-protos
     #   grpc-google-iam-v1
     #   grpcio-gcp
-gunicorn==20.1.0
+gunicorn==23.0.0
     # via -r requirements.in
 hdfs==2.6.0
     # via apache-beam
