@@ -153,7 +153,7 @@
     "d3-scale": "^3.2.1",
     "dayjs": "^1.8.35",
     "default-passive-events": "^2.0.0",
-    "fabric": "^4.1.0",
+    "fabric": "^5.0.0",
     "firebase": "^8.0.0",
     "gif-frames": "^1.0.1",
     "gifshot": "^0.4.5",
